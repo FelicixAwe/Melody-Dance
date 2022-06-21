@@ -14,3 +14,5 @@ A music visualization project using html and css.
 # To start the program
 
 `supervisor bin/www`
+
+Go to 127.0.0.1:3000 in browser
