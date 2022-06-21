@@ -13,4 +13,4 @@ A music visualization project using html and css.
 
 # To start the program
 
-#`supervisor bin/www`
+`supervisor bin/www`
